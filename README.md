@@ -1,4 +1,6 @@
-KAÇD’lerin tasarımı ve Geliştirilmesi
+KAÇD’lerin Tasarımı ve Geliştirilmesi
+
+
 Dersin Amacı 
 
 Kitlesel Açık Çevrim içi Dersler (Massive Open Online Courses – MOOC) açıkve uzaktan öğretim alanında en çok tartışılan konuların başında  gelebilir.Özellikle pandemi süreci gibi informal öğrenmenin ve uzaktan eğitimin ayrı bir önem kazandığı koşullarda kendi KAÇD'nizi geliştirmek hem bireysel hem de toplumsal açıdan oldukça fadalı olabilir.Bu yüzden bu ders etkili bir KAÇD geliştireilmek için gerekli tüm bilgi ve beceriyi öğrencilere kazandırmayı amaçlamaktadır..
